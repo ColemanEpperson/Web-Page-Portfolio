@@ -1,33 +1,41 @@
-body {
-background-color: ###
-}
+<!-- header formatting / style -->
 
 header{
-height: 100px;
-background-color: ###;
+background: #94A89A;
+color: #C7AC92;
+font famiy: 'Times New Roman', serif;
+font-size: 20px
+text-align: center;
+margin: 0%;
+padding: 5px;
 }
 
-main{
-paddingtop
-minheight
+<!-- main formatting / syle -->
+
+main{ 
+background: #9CB380;
+color: #C7AC92;
+font family: 'Times New Roman', 'serif';
+font-size: 16px;
+text-align: center;
+margin: 0%;
+padding: 5px;
 }
+
+<!-- footer formatting / style -->
 
 footer{
-height 
-background-color
+background: #A44A3F;
+color: #C7AC92;
+font-family: 'Times New Roman', 'serif';
+font-size: 16px;
+text-align: center;
+margin: 0%;
+padding: 5px;
 }
 
-h1{
-font-size
-text-align
-padding-top
-margin
+img { 
+height: 400px;
 }
 
-footer{
-text-align:center;
-}
-footer copyright {
-color
-padding-top
-}
+
