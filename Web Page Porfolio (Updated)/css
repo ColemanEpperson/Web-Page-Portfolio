@@ -1,0 +1,88 @@
+/*  broadest element, really just essential to the broad background color of the webpage*/
+
+html {
+    background-color: beige;
+    margin:0;
+    width: 100%;
+}
+
+/* header formatting */
+
+header {
+    padding: 30px;
+
+}
+/* h1 formatting */
+
+h1 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+}
+/* paragraph formatting */
+p {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 70px;
+    margin:5px;
+
+ }
+/* h2 formatting */
+ h2{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    text-align: center;
+    margin: 1px;
+    padding: 5px;
+ }
+
+ /* image formatting, could be better I think */
+img {
+    border-radius: 8px;
+    max-width: 50%;
+    max-height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+
+ }
+ /* h3 formatting */ 
+h3 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    text-align: center;
+}
+
+/* styling of my ordered list */
+ol{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    list-style-position: inside;
+}
+/* h4 formatiing */
+h4{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    text-align: center;
+    margin: 5px;
+}
+/* styling of my unordered list */
+ul{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 20px;
+    list-style-position: inside;
+    margin: 0;
+    
+}
+
